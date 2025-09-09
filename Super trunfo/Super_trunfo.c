@@ -2,8 +2,8 @@
 
 int main() {
     // Carta 1
-    char estado1;
-    char codigo1[4];
+    char estado1[10];
+    char codigo1[10];
     char nomeCidade1[50];
     int populacao1;
     float area1;
@@ -11,8 +11,8 @@ int main() {
     int pontosTuristicos1;
 
     // Carta 2
-    char estado2;
-    char codigo2[4];
+    char estado2[10];
+    char codigo2[10];
     char nomeCidade2[50];
     int populacao2;
     float area2;
